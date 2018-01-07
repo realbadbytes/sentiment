@@ -1,0 +1,3 @@
+sudo pip install requests[security]
+matplotlib, tweepy
+apt-get install python-tk

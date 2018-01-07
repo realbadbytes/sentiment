@@ -1,0 +1,15 @@
+twitter feed will have options to dump tweets related to a single keyword
+this data stream has multiple traits that can be analyzed to judge sentiment
+    - liveliness, tweets per minute
+    - time between tweets
+    - swear word density
+    - follower count average of tweeter i.e how much "high profile" visibility is this getting
+
+machine learning
+    - input tweets would be tagged as either good or bad sentiment, training data manually classified
+    - test data could see if neural net classifies properly, could be expanded to any keyword??
+
+android bug tracking - track list of keywords related to android
+scan tweets for security-specific words, keep count of these
+when there are more than X in Y time, alert somehow and extract the topics
+this means there has been an uptick in interest over a specific android topic that we want to know about
